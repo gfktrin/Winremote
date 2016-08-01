@@ -11,7 +11,7 @@ Then you execute the program. After that you can change your webpage's title for
 * idmsgyourmessage
 
   Shows a message with notepad.
-* idchangeid
+* idchangeidnewid
 
   Changes the computer's id.
 * idstop
